@@ -24,3 +24,17 @@ public class User {
         String number;
     }
 }
+
+class TreeNode {
+    TreeNode parent;
+    List<TreeNode> children;
+
+    void A() {
+        b();
+    }
+    void b() {
+        // 1
+        // 2
+        // 3
+    }
+}
