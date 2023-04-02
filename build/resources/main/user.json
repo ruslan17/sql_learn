@@ -1,0 +1,23 @@
+{
+  "name": "John",
+  "age": 18,
+  "address": {
+    "addressLine1": "Bali",
+    "addressLine2": "Baku"
+  },
+  "addresses": [
+    {
+      "addressLine1": "Bali",
+      "addressLine2": "Baku"
+    },
+    {
+      "addressLine1": "London",
+      "addressLine2": "Paris"
+    }
+  ],
+  "birthday": "2000-10-10",
+  "phoneNumbers": [
+    "+994-51-000-00-00",
+    "+994-51-000-00-00"
+  ]
+}
